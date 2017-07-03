@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta Noblestreet</title>
+    <link>http://192.168.0.114/</link>
+    <description>Recent content on Beta Noblestreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jul 2017 12:50:56 +0200</lastBuildDate>
+    
+	<atom:link href="http://192.168.0.114/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>http://192.168.0.114/home/</link>
+      <pubDate>Sun, 02 Jul 2017 12:50:56 +0200</pubDate>
+      
+      <guid>http://192.168.0.114/home/</guid>
+      <description>Hello and welcome to my site!
+A Bit About Me I like alpacas and I&amp;rsquo;m a fan of static sites.</description>
+    </item>
+    
+  </channel>
+</rss>
